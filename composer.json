@@ -2,6 +2,7 @@
     "name": "knnguler/starter",
     "description": "Custom Starter Kit Package with Livewire 4 and TailwindCSS 4",
     "type": "library",
+    "license": "MIT",
     "require": {
         "php": "^8.2",
         "illuminate/support": "^10.0|^11.0|^12.0|^13.0",

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95510626-f7d3-48e7-b7f2-863a8b1974e7" name="Changes" comment="Hello" />
+    <list default="true" id="95510626-f7d3-48e7-b7f2-863a8b1974e7" name="Changes" comment="Hello">
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,12 @@
     <persistenceIdMap>
       <entry key="_C:/herd/starter" value="3D35Re82J2rglAxw31yHlmGKmSC" />
     </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Auto" />
+      <entry key="chat-panel" value="Auto" />
+    </selectedModels>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +54,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3D35Re82J2rglAxw31yHlmGKmSC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -91,7 +102,7 @@
       <workItem from="1777498903168" duration="134000" />
       <workItem from="1777499057505" duration="172000" />
       <workItem from="1777499237757" duration="210000" />
-      <workItem from="1777499456643" duration="17000" />
+      <workItem from="1777499456643" duration="533000" />
     </task>
     <task id="LOCAL-00001" summary="Hello">
       <option name="closed" value="true" />
@@ -101,7 +112,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777499353905</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1777499689786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777499689786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1777499710309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777499710309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
