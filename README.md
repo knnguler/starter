@@ -12,6 +12,7 @@ A professional Laravel starter kit package featuring Livewire 4, TailwindCSS 4, 
 - **Responsive Design**: Mobile-first responsive components
 - **Dark Mode Support**: Built-in dark mode theming
 
+
 ## Installation
 
 ### 1. Install the Package
