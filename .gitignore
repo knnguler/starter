@@ -1,0 +1,16 @@
+/vendor/
+/node_modules/
+.env
+.env.backup
+.phpunit.result.cache
+
+/test-project/vendor/
+/test-project/node_modules/
+/test-project/.env
+/test-project/.env.backup
+/test-project/public/storage
+/test-project/storage/*.key
+/test-project/storage/framework/cache/data/*
+/test-project/storage/framework/views/*.php
+/test-project/storage/framework/sessions/*
+/test-project/storage/logs/*.log
